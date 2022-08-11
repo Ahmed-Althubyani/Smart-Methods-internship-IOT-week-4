@@ -1,5 +1,5 @@
 # Smart-Methods-internship-IOT-week-4  
-This is the work of week 3 of the internship for internet of things track which include:  
+This is the work of week 4 of the internship for internet of things track which include:  
 1- create a webpage that get the value of a sensor  
 &emsp;1.1- it will use GET method  
 &emsp;1.2- the value will be of an integer type  
